@@ -34,7 +34,7 @@ function iLoveTheBeatles(){
   let arr = [];
   let i = 0
   do {
-    arr.push("I love the Beatles! " + i);
+    arr.push("I love the Beatles! ");
     i++;
   }while (i<15)
   return arr;
