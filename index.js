@@ -33,7 +33,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(a){
   let arr = [];
   do {
-    arr.push("I love the Beatles! ");
+    arr.push("I love the Beatles!");
     a++;
   }while (a<15)
   return arr;
